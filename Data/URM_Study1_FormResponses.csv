@@ -1,0 +1,45 @@
+Timestamp,Participant ID (filled by instructor),Age,Gender,Profession,Highest education level,"Do you have a history of photosensitive epilepsy or seizures triggered by visual stimuli (e.g., flashing or changing lights)","Do you have a diagnosed colour vision deficiency (e.g., red-green colour blindness)?",How is your vision during computer work (with glasses or contact lenses if you normally use them)?,Coloured light on?,"How mentally demanding was the task?
+Please select a number between 1 and 20. 
+1 = low, 20 = high ","How physically demanding was the task?
+Please select a number between 1 and 20.
+1 = low, 20 = high","How hurried or rushed was the pace of the task?
+Please select a number between 1 and 20. 
+1 = low, 20 = high","How successful were you in accomplishing what you were asked to do?
+Please select a number between 1 and 20. 
+1 = very unsuccessful, 20 = very successful ","How hard did you have to work to accomplish your level of performance? 
+Please select a number between 1 and 20. 
+1 = not hard at all, 20 = very hard ","How insecure, discouraged, irritated, or stressed did you feel during the task? 
+Please select a number between 1 and 20. 
+1 = not at all, 20 = very ",I feel just the right amount of challenge. ,My thoughts/activities run fluidly and smoothly.,I don’t notice time passing. ,I have no difficulty concentrating. ,My mind is completely clear. ,I am totally absorbed in what I am doing. ,The right thoughts/movements occur of their own accord. ,I know what I have to do each step of the way. ,I feel that I have everything under control. ,I am completely lost in thought. ,Something important to me is at stake here. ,I won’t make any mistake here. ,I am worried about failing. ,"Compared to all other activities which I partake in, this one is …",I think that my competence in this area is … ,"For me personally, the current demands are …",Coloured light on?,"How mentally demanding was the task?
+Please select a number between 1 and 20. 
+1 = low, 20 = high ","How physically demanding was the task?
+Please select a number between 1 and 20.
+1 = low, 20 = high","How hurried or rushed was the pace of the task?
+Please select a number between 1 and 20. 
+1 = low, 20 = high","How successful were you in accomplishing what you were asked to do?
+Please select a number between 1 and 20. 
+1 = very unsuccessful, 20 = very successful ","How hard did you have to work to accomplish your level of performance? 
+Please select a number between 1 and 20. 
+1 = not hard at all, 20 = very hard ","How insecure, discouraged, irritated, or stressed did you feel during the task? 
+Please select a number between 1 and 20. 
+1 = not at all, 20 = very ",I feel just the right amount of challenge. ,My thoughts/activities run fluidly and smoothly.,I don’t notice time passing. ,I have no difficulty concentrating. ,My mind is completely clear. ,I am totally absorbed in what I am doing. ,The right thoughts/movements occur of their own accord. ,I know what I have to do each step of the way. ,I feel that I have everything under control. ,I am completely lost in thought. ,Something important to me is at stake here. ,I won’t make any mistake here. ,I am worried about failing. ,"Compared to all other activities which I partake in, this one is …",I think that my competence in this area is … ,"For me personally, the current demands are …"
+11/28/2025 11:54:08,1,23,Female,student,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,No,6,1,2,17,8,10,7,6,7,5,7,7,7,7,6,6,2,4,2,1,9,4,Yes,2,1,1,17,5,4,6,7,7,6,5,6,6,7,7,5,2,4,2,1,8,2
+11/28/2025 11:59:39,2,26,Male,Student,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,Yes,5,5,5,15,10,10,3,4,6,6,5,6,4,6,6,2,1,7,1,2,4,5,No,5,4,8,12,10,4,4,5,6,6,6,6,6,7,5,2,1,7,1,3,5,5
+11/28/2025 12:47:43,3,23,Female,Student,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,No,9,16,18,17,13,7,6,5,7,3,5,7,5,6,6,2,4,5,5,2,7,4,Yes,14,15,17,11,16,13,6,5,7,3,5,7,7,7,7,5,4,6,3,3,6,4
+11/28/2025 12:46:13,4,23,Male,Student,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,No,12,6,11,16,14,5,6,5,2,5,2,5,3,7,4,3,1,2,1,5,8,4,Yes,12,6,11,14,12,2,6,5,1,5,2,2,5,5,6,2,1,3,1,5,8,2
+11/28/2025 13:44:22,5,22,Male,Student,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,Yes,6,1,14,12,8,7,3,2,5,6,5,5,5,7,6,2,1,2,1,2,6,5,No,7,1,12,16,5,4,3,4,7,5,4,6,5,7,5,2,1,2,1,3,6,5
+11/28/2025 15:43:57,6,25,Male,Student,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,Yes,12,1,11,10,8,7,4,7,5,6,4,5,5,4,5,2,1,1,1,4,6,4,No,8,1,6,15,13,6,5,6,6,6,4,5,6,7,6,3,1,2,1,4,6,4
+11/28/2025 16:30:33,7,23,Male,student,Bachelor’s degree (or equivalent),Yes,No,Normal/corrected to normal,No,13,7,18,13,9,6,5,6,7,4,3,4,4,4,3,2,2,4,6,6,7,5,Yes,14,13,19,11,7,8,5,5,2,4,6,6,4,7,6,2,1,2,5,6,7,2
+11/28/2025 16:30:36,8,23,Female,student,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,No,18,4,19,18,18,20,5,2,7,7,7,6,7,5,1,2,1,1,1,7,7,7,Yes,13,2,12,15,14,10,5,6,7,7,7,6,3,4,1,1,1,1,1,7,8,5
+11/28/2025 17:42:10,9,24,Male,Student,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,No,4,10,20,15,5,1,6,7,2,7,5,7,7,7,7,6,2,7,1,2,8,3,Yes,10,5,20,13,10,12,6,5,2,4,5,7,6,7,3,7,1,7,1,3,8,5
+11/28/2025 17:42:10,10,29,Female,student,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,No,5,1,10,15,10,10,3,5,3,4,3,4,4,7,7,2,1,2,1,2,6,4,Yes,12,3,5,12,5,11,3,4,3,4,3,3,3,5,4,3,1,3,1,3,6,5
+11/28/2025 17:42:34,11,31,Male,UX Designer,Master’s degree (or equivalent),No,No,"Mild difficulties (e.g., small text sometimes hard to read)",No,10,2,5,8,7,9,4,2,4,5,2,2,4,6,6,2,4,2,5,6,5,5,Yes,6,1,6,17,5,7,4,5,3,5,4,3,5,4,5,4,4,3,2,4,5,4
+11/28/2025 18:53:24,12,20,Female,Marketing and Event Assistant,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,Yes,3,6,8,8,4,6,7,3,5,4,3,3,4,7,3,2,3,3,1,2,4,5,No,5,5,6,13,6,2,4,6,3,6,7,3,3,7,4,2,4,2,1,2,6,3
+11/28/2025 18:51:44,13,23,Male,Student,"University studies, no degree yet",No,No,"Mild difficulties (e.g., small text sometimes hard to read)",Yes,10,3,15,17,17,9,3,7,2,6,3,2,6,7,5,1,1,2,1,3,6,4,No,10,3,14,15,17,4,5,7,2,6,4,5,6,7,6,2,1,2,1,3,6,5
+11/28/2025 18:51:52,14,23,Male,Manager,Master’s degree (or equivalent),No,No,Normal/corrected to normal,Yes,8,1,15,12,12,3,5,6,7,7,7,7,7,7,7,1,1,1,2,1,6,3,No,5,1,3,14,11,1,3,7,7,7,7,7,7,7,7,1,1,1,2,2,5,3
+11/28/2025 19:45:57,15,21,Female,public historian,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,Yes,12,11,15,8,10,6,5,5,6,5,6,7,5,7,6,3,4,3,2,2,4,4,No,14,10,12,6,15,14,4,3,5,2,3,4,3,4,3,5,4,3,3,6,4,6
+11/28/2025 19:45:07,16,22,Female,Ux/ui designer,Master’s degree (or equivalent),No,No,Normal/corrected to normal,Yes,6,2,10,20,3,9,6,4,7,7,6,7,7,7,4,5,4,6,1,1,8,4,No,5,4,8,20,6,10,7,7,7,5,5,7,7,7,5,2,3,6,1,1,8,2
+12/2/2025 9:45:50,17,23,Female,student,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,No,15,11,17,15,14,16,6,3,5,5,3,5,3,5,4,3,2,2,5,6,6,5,Yes,17,13,18,17,15,16,5,3,5,3,5,4,3,4,3,2,3,3,5,7,6,5
+12/2/2025 10:40:08,18,25,Female,Student,Bachelor’s degree (or equivalent),No,No,"Mild difficulties (e.g., small text sometimes hard to read)",Yes,13,15,13,9,13,17,5,3,6,2,2,3,4,5,1,5,3,1,2,6,5,6,No,14,16,14,7,15,19,3,2,6,2,2,2,3,3,1,5,3,1,3,7,4,6
+12/2/2025 10:40:23,19,26,Female,Student,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,Yes,14,9,16,13,16,11,6,4,5,3,2,5,5,7,4,5,3,3,3,6,6,5,No,12,8,13,16,13,7,5,5,5,4,5,6,6,7,6,3,3,5,3,6,6,6
+12/2/2025 10:39:50,20,34,Male,Student / Tram Operator,Bachelor’s degree (or equivalent),No,No,Normal/corrected to normal,Yes,6,2,8,15,6,3,7,6,3,6,3,5,5,7,6,2,2,1,1,2,6,5,No,4,2,6,15,5,2,7,6,3,6,2,5,5,7,6,3,2,1,1,2,6,5
